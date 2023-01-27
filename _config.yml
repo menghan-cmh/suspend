@@ -1,1 +1,7 @@
 theme: jekyll-theme-leap-day
+
+author:
+	name: "Menghan Chen"
+	bio: "Computing Science Student @ University of Alberta"
+	location: "Edmonton, Alberta, Canada"
+	github: "menghan-cmh"
